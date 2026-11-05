@@ -1,0 +1,8 @@
+:root{--ink:#0B0B0C;--paper:#F6F2EA;--text:#1C1A17;--muted:#5C574E;--accent:#B23E22;--navy:#001749}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--text);font:18px/1.6 Georgia,"Times New Roman",serif}
+header{background:linear-gradient(180deg,#001749,#0A2A6B);color:#EDE9E3;text-align:center;padding:56px 24px 40px}
+header img{width:96px;height:96px;border-radius:22px;box-shadow:0 8px 24px rgba(0,0,0,.35)}
+header h1{font-weight:600;font-size:40px;margin:16px 0 4px}header p{margin:0;color:#D4A72C;font:600 13px/1.4 -apple-system,Helvetica,Arial,sans-serif;letter-spacing:.12em;text-transform:uppercase}
+main{max-width:680px;margin:0 auto;padding:32px 24px 64px}h2{font-size:26px;font-weight:600;margin:36px 0 8px}
+a{color:var(--accent)}.btn{display:inline-block;background:var(--accent);color:#fff;text-decoration:none;padding:12px 22px;border-radius:12px;font:600 16px -apple-system,Helvetica,Arial,sans-serif}
+.muted{color:var(--muted);font-size:15px}nav{margin-top:40px;font:15px -apple-system,Helvetica,Arial,sans-serif}nav a{margin-right:16px}
